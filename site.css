@@ -1,0 +1,13 @@
+:root {
+  color-scheme: light dark;
+  font-family: system-ui, "Segoe UI", sans-serif;
+  line-height: 1.55;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+h1, h2 { line-height: 1.25; }
+nav { margin-bottom: 2rem; font-size: 0.95rem; }
+nav a { margin-right: 1rem; }
+.lang-block { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ccc; }
+.disclaimer { font-size: 0.9rem; opacity: 0.85; }
